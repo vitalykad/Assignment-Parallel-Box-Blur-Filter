@@ -1,0 +1,32 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/funkntrash/Downloads/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala, /home/funkntrash/Downloads/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set(/home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur$.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur$$anonfun$parBlur$1.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlurRunner$.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur$$anonfun$parBlur$2.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur$$anonfun$parBlur$2$$anonfun$apply$1.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlurRunner$$anonfun$1.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlurRunner$$anonfun$1.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlurRunner.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur$$anonfun$parBlur$1.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlurRunner$$anonfun$2.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlurRunner.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlurRunner$$anonfun$2.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur$.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlurRunner$.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur$$anonfun$parBlur$2$$anonfun$apply$1.class, /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur$$anonfun$parBlur$2.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/funkntrash/Downloads/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala, /home/funkntrash/Downloads/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/home/funkntrash/Downloads/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala, /home/funkntrash/Downloads/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/funkntrash/Downloads/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala, /home/funkntrash/Downloads/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /home/funkntrash/Downloads/scalashop/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 60fce7f7, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/home/funkntrash/Downloads/jdk1.8.0_91/jre/lib/resources.jar:/home/funkntrash/Downloads/jdk1.8.0_91/jre/lib/rt.jar:/home/funkntrash/Downloads/jdk1.8.0_91/jre/lib/sunrsasign.jar:/home/funkntrash/Downloads/jdk1.8.0_91/jre/lib/jsse.jar:/home/funkntrash/Downloads/jdk1.8.0_91/jre/lib/jce.jar:/home/funkntrash/Downloads/jdk1.8.0_91/jre/lib/charsets.jar:/home/funkntrash/Downloads/jdk1.8.0_91/jre/lib/jfr.jar:/home/funkntrash/Downloads/jdk1.8.0_91/jre/classes:/home/funkntrash/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/funkntrash/Downloads/scalashop/target/scala-2.11/classes:/home/funkntrash/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.4.jar:/home/funkntrash/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar:/home/funkntrash/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/home/funkntrash/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar:/home/funkntrash/.ivy2/cache/org.apache.commons/commons-math3/jars/commons-math3-3.2.jar:/home/funkntrash/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar:/home/funkntrash/.ivy2/cache/com.github.scala-blitz/scala-blitz_2.11/jars/scala-blitz_2.11-1.1.jar:/home/funkntrash/.ivy2/cache/org.scala-lang.modules/scala-swing_2.11/bundles/scala-swing_2.11-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 15.106087026 s[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
